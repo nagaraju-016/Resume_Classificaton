@@ -1,0 +1,5 @@
+streamlit==1.42.0
+joblib==1.4.2
+scikit-learn==1.6.0
+PyPDF2==3.0.1
+nltk==3.9.1
